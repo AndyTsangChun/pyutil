@@ -16,7 +16,8 @@ REQUIRED_PACKAGES = [
     'numpy==1.14.2'
 ]
 
-setup(name='py_util',
+setup(name='pyutil',
+	packages=['pyutil'],
 	version=_VERSION,
 	description='Python Util Library',
 	install_requires=REQUIRED_PACKAGES,

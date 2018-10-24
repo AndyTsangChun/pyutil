@@ -1,4 +1,4 @@
-# PyUtil
+# pyutil
 
 Python Util Function
 
@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-All dependency listed [here](https://github.com/AndyTsangChun/py_util/blob/master/requirements.txt)
+All dependency listed [here](https://github.com/AndyTsangChun/pyutil/blob/master/requirements.txt)
 
 ```
 pip install -r requirements.txt
@@ -25,11 +25,11 @@ python setup.py install
 ### Usages
 Example:
 ```
-from py_util import basic_args, str2bool
+from pyutil import basic_args, str2bool
 ```
 
 ## Change Log
-Please check from [here](https://github.com/AndyTsangChun/py_util/blob/master/CHANGELOG.md)
+Please check from [here](https://github.com/AndyTsangChun/pyutil/blob/master/CHANGELOG.md)
 
 ## Known Issue
 N/A

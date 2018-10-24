@@ -6,8 +6,8 @@ All notable changes to this project will be documented in this file.
 Initial Commit
 
 ### Added
-- Added arg_util
-- Added file_util
-- Added np_util
+- Added *arg_util*
+- Added *file_util*
+- Added *np_util*
 - Added PyLogger
 - Added PyQueue
