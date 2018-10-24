@@ -2,6 +2,11 @@ import os
 import platform
 import setuptools
 
+try :
+	from setuptools import setup,find_packages
+except ImportError:
+	from distutils.core import setup,find_packages
+
 _VERSION = '0.0.0'
 
 cwd = os.path.dirname(os.path.abspath(__file__))
