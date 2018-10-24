@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-All dependency listed [here](<DEPENDENCY LINK>)
+All dependency listed [here](https://github.com/AndyTsangChun/py_util/blob/master/requirements.txt)
 
 ```
 pip install -r requirements.txt
@@ -29,7 +29,7 @@ from py_util import basic_args, str2bool
 ```
 
 ## Change Log
-Please check from [here](<CHANGELOG LINK>)
+Please check from [here](https://github.com/AndyTsangChun/py_util/blob/master/CHANGELOG.md)
 
 ## Known Issue
 N/A
