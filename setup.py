@@ -5,7 +5,6 @@ import setuptools
 _VERSION = '0.0.0'
 
 cwd = os.path.dirname(os.path.abspath(__file__))
-on)
 
 REQUIRED_PACKAGES = [
 	'argparse>=1.1',
