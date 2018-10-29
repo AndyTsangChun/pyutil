@@ -28,6 +28,10 @@ Example:
 from pyutil import basic_args, str2bool
 ```
 
+## Built With
+
+* [screeninfo](https://github.com/rr-/screeninfo) - Library to fetch location and size of physical screens.
+
 ## Change Log
 Please check from [here](https://github.com/AndyTsangChun/pyutil/blob/master/CHANGELOG.md)
 

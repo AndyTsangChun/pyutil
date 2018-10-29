@@ -13,5 +13,7 @@ from .np_util import str2npa
 from .np_util import sigmoid
 from .np_util import softmax
 
+from .py_util import getScreenInfo
+
 from .py_queue import PyQueue
 from .py_logger import PyLogger
