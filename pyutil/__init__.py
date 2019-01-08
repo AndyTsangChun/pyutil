@@ -17,3 +17,5 @@ from .py_util import getScreenInfo
 
 from .py_queue import PyQueue
 from .py_logger import PyLogger
+
+from .tf_util import getAvailableGPUs
