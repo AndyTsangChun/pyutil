@@ -13,7 +13,8 @@ cwd = os.path.dirname(os.path.abspath(__file__))
 
 REQUIRED_PACKAGES = [
 	'argparse>=1.1',
-    'numpy==1.14.2'
+    'numpy==1.14.2',
+    'screeninfo>=0.3'
 ]
 
 setup(name='pyutil',
