@@ -13,7 +13,7 @@ cwd = os.path.dirname(os.path.abspath(__file__))
 
 REQUIRED_PACKAGES = [
 	'argparse>=1.1',
-    'numpy==1.14.2',
+    'numpy==1.22.0',
     'screeninfo>=0.3'
 ]
 
